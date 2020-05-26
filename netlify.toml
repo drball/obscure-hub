@@ -1,0 +1,15 @@
+
+[[redirects]]
+from = "/future-food"
+to = "https://www.scifiideas.com"
+status = 301
+
+[[redirects]]
+from = "/sci-fi-character-name-generator/"
+to = "https://www.scifiideas.com"
+status = 301
+
+[[redirects]]
+from = "*"
+to = "https://www.scifiideas.com"
+status = 301
