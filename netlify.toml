@@ -10,6 +10,6 @@ to = "https://www.scifiideas.com"
 status = 301
 
 [[redirects]]
-from = "*"
+from = "/*"
 to = "https://www.scifiideas.com"
 status = 301
