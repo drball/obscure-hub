@@ -9,6 +9,11 @@ to = "https://www.scifiideas.com"
 status = 301
 
 [[redirects]]
+from = "/sftg/"
+to = "https://www.scifiideas.com/scifi-story-title-generator/"
+status = 301
+
+[[redirects]]
 from = "/*"
 to = "https://www.scifiideas.com"
 status = 301
