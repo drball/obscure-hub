@@ -18,7 +18,4 @@ from = "/sci-fi-story-idea-generator/"
 to = "https://www.scifiideas.com/story-idea-generator/"
 status = 301
 
-[[redirects]]
-from = "/*"
-to = "https://www.scifiideas.com"
-status = 301
+
